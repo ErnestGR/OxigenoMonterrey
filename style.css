@@ -1,0 +1,8 @@
+.container-carousel {
+    margin-top: 4rem;
+
+  }
+  .carousel-control-next,
+  .carousel-control-prev {
+      filter: invert(25%);
+  }

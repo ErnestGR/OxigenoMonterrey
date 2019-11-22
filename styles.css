@@ -92,9 +92,6 @@ body {
       line-height: 1.4;
       height: 150px;
     }
-    .container-products > img{
-size: 25%;
-    }
   .lead{
     font-size: 15px;
   }
@@ -103,4 +100,3 @@ size: 25%;
     }
     
   }
-  
