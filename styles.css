@@ -81,6 +81,9 @@ body {
       margin-bottom: 1px;
       height: 300px;
     }
+    .carousel-slide{
+      margin: 10px;
+    }
     .carousel-item {
       height: 250px;
     }
