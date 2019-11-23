@@ -7,7 +7,9 @@ body{
 }
 .container-carousel {
     margin-top: 4rem;
-
+  }
+  .no-click{
+    pointer-events: none;
   }
   .carousel-control-next,
   .carousel-control-prev {
