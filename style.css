@@ -1,3 +1,6 @@
+body{
+  font-family: 'Ubuntu', sans-serif;
+}
 .main-container{
     margin: 0 auto;
     padding: 10px;
@@ -15,8 +18,28 @@
    position:absolute;
    right: 0;
 }
+.container-marketing{
+  text-align: center;
+  color:#2D67B2;
+  font-weight: bold;
+}
+.location{
+padding: 10px;
+}
+.container-info{
+  padding: 10px;
+}
 h3{
   color: #2D67B2;
   font-size: 15px;
+  font-weight: bold;
+}
+h2 {
+  color: #2D67B2;
+  
+}
+p{
+  color: #565656;
+  margin: 0;
   font-weight: bold;
 }
