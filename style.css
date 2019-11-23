@@ -1,8 +1,17 @@
+.main-container{
+    margin: 0 auto;
+    padding: 10px;
+}
 .container-carousel {
     margin-top: 4rem;
 
   }
   .carousel-control-next,
   .carousel-control-prev {
-      filter: invert(25%);
+    filter: invert(25%);
   }
+  .navbar .phone{
+   color: #2D67B2;
+   position:absolute;
+   right: 0;
+}
