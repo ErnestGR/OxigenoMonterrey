@@ -43,3 +43,14 @@ p{
   margin: 0;
   font-weight: bold;
 }
+.lead{
+  color: #565656;
+  margin: 0;
+  font-weight: normal;
+  font-size: small;
+}
+footer{
+  margin-bottom: 20px;
+  font-weight: normal;
+  font-size: small;
+}
