@@ -3,7 +3,7 @@ body{
 }
 .main-container{
     margin: 0 auto;
-    width: 80%;
+    width: 95%;
     padding: 10px;
 }
 .container-carousel {
@@ -11,33 +11,33 @@ body{
   }
   .no-click{
     pointer-events: none;
+    text-align: center;
+    font-weight: bold;
+    color: #3b444b;
   }
   .carousel-control-next,
   .carousel-control-prev {
     filter: invert(25%);
   }
   .navbar .phone{
-   color: #2D67B2;
+   color: #3499cc;
    position:absolute;
    right: 0;
 }
-.container-marketing{
-  text-align: center;
-  color:#2D67B2;
-  font-weight: bold;
-}
+
 .location{
 padding: 10px;
-color: #2D67B2;
+color: #3499cc;
 text-align: center;
 font-size: 25px;
 font-weight: bold;
 }
 .head{
   padding: 10px;
-  color: #2D67B2;
+  color: #3499cc;
   text-align: center;
   font-size:25px;
+  font-weight: bold;
 
   }
 .mun{
@@ -54,12 +54,12 @@ font-weight: bold;
   padding: 10px;
 }
 h3{
-  color: #2D67B2;
+  color: #3499cc;
   font-size: 15px;
   font-weight: bold;
 }
 h2 {
-  color: #2D67B2;
+  color: #3499cc;
   
 }
 p{
@@ -72,19 +72,15 @@ p{
   margin: 0;
   font-weight: normal;
   font-size: small;
-}
-th{
-  text-align: end;
+  font-weight: bold;
 }
 footer{
   margin-bottom: 20px;
   font-weight: normal;
   font-size: small;
 }
-
 @media only screen and (max-width: 600px) {
   body {
-    width: 100%;
-    padding: 5px;
+  
   }
 }
