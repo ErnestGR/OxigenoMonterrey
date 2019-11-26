@@ -3,6 +3,7 @@ body{
 }
 .main-container{
     margin: 0 auto;
+    width: 80%;
     padding: 10px;
 }
 .container-carousel {
@@ -27,6 +28,27 @@ body{
 }
 .location{
 padding: 10px;
+color: #2D67B2;
+text-align: center;
+font-size: 25px;
+font-weight: bold;
+}
+.head{
+  padding: 10px;
+  color: #2D67B2;
+  text-align: center;
+  font-size:30px;
+
+  }
+.mun{
+  padding: 10px;
+  color: #565656;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  }
+.requirements{
+  margin: 0 auto;
 }
 .container-info{
   padding: 10px;
@@ -51,8 +73,18 @@ p{
   font-weight: normal;
   font-size: small;
 }
+th{
+  text-align: end;
+}
 footer{
   margin-bottom: 20px;
   font-weight: normal;
   font-size: small;
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    width: 100%;
+    padding: 5px;
+  }
 }
