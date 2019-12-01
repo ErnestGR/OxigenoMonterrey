@@ -53,6 +53,13 @@ font-weight: bold;
 .container-info{
   padding: 10px;
 }
+.phone{
+  text-align: center;
+}
+h1{
+  color: #3499cc;
+  font-weight: bold;
+}
 h3{
   color: #3499cc;
   font-size: 15px;
