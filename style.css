@@ -1,5 +1,9 @@
 body{
-  size: 720px;
+max-width: 1024px;
+display: flex;
+align-content: center;
+flex-direction: column;
+margin: auto;
   font-family: 'Ubuntu', sans-serif;
 }
 .main-container{
