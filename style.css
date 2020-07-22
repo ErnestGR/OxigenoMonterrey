@@ -6,6 +6,12 @@ flex-direction: column;
 margin: auto;
   font-family: 'Ubuntu', sans-serif;
 }
+.jumbotron{
+  margin: 0 auto;
+  margin-top: 100px;
+  width: 95%;
+  padding: 10px;
+}
 .main-container{
     margin: 0 auto;
     width: 95%;
